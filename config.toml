@@ -1,0 +1,4 @@
+baseURL = "https://animebatmanboosque5.vercel.app"
+languageCode = "en-us"
+title = "Batman Anime Movies"
+theme = "hugo-theme-minos"
